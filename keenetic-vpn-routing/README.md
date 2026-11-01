@@ -1,4 +1,3 @@
-warning: in the working copy of 'keenetic-vpn-routing/README.md', LF will be replaced by CRLF the next time Git touches it
 # Исключения из VPN на Keenetic
 
 Эта инструкция помогает настроить выход устройств через AmneziaWG, направляя IPv4-трафик к подсетям из списка напрямую через интернет-провайдера. Список содержит российские сервисы, включая банки, Госуслуги и MAX. Остальной IPv4-трафик устройств выбранной VPN-политики должен идти через VPN.
